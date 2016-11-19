@@ -5,7 +5,7 @@
  */
 package com.aes.operbolsa.modelo.inversor;
 
-import com.aes.operbolsa.modelo.inversor.bolsa.Accion;
+import com.aes.operbolsa.modelo.bolsa.Accion;
 import java.io.Serializable;
 import java.util.ArrayList;
 import java.util.List;
